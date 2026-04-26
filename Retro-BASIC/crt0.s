@@ -1,0 +1,12 @@
+.export __STACKSTART__
+.export __CONSTRUCTOR_COUNT__
+.export __CONSTRUCTOR_TABLE__
+.export __DESTRUCTOR_COUNT__
+.export __DESTRUCTOR_TABLE__
+
+.DATA
+__STACKSTART__:      .word $6000
+__CONSTRUCTOR_COUNT__: .word 0
+__CONSTRUCTOR_TABLE__: .word 0
+__DESTRUCTOR_COUNT__:  .word 0
+__DESTRUCTOR_TABLE__:  .word 0
