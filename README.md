@@ -332,7 +332,7 @@ Retro-BASIC/
 
 ## Full Documentation
 
-See [`manual.md`](manual.md) for the complete 32-chapter Programmer's Manual including:
+See [`manual.md`](Retro-BASIC/manual.md) for the complete 32-chapter Programmer's Manual including:
 
 - Full language reference for every statement and function
 - Detailed error message guide
